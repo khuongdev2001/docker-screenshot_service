@@ -1,0 +1,4 @@
+.git
+.vagrant
+.env
+node_modules
